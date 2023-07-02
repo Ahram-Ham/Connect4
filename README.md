@@ -3,7 +3,7 @@ Artificial Intelligence Connect 4 Player
 
 ## Commands to run:
 | Command | Description | Datatype | Example | Default |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
+| ------------- | ----------- | ----------- | ----------- | ----------- |
 | -p1 | Agent who will be acting as player 1. Name of agent eg minimaxAI | String | -p1 minimaxAI or -p1 monteCarloAI | human |
 | -p2 | Agent who will be acting as player 2. Name of agent eg minimaxAI | String | -p2 minimaxAI or -p2 monteCarloAI | human |
 | -seed| Seed for AI’s with stochastic elements | int | -seed 0 | 0 |
